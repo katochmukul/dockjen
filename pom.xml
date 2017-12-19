@@ -14,7 +14,7 @@
   <name>nginxPostRequest</name>
   <description>Demo project for Spring Boot</description>
   <scm>
-    <developerConnection>scm:git:https://github.com/BKS1989/springbootapp.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/katochmukul/dockjen.git</developerConnection>
     <tag>nginxPostRequest-1.4.14-RELEASE</tag>
   </scm>
   <properties>
